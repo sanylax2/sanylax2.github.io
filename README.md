@@ -10,4 +10,4 @@ github.com/sanylax
 
 ### Support or Contact
 
-Email me at lathalaxsan@gmail.com
+Email me at sanylax01@gmail.com
